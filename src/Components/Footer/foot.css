@@ -1,0 +1,25 @@
+.para{
+    color:#959ead;
+    font-family: "Roboto";
+    margin-left: 50px;
+}
+.navbar-links-container a {
+    margin-right: 48px;
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .logo{
+    color:white;
+    font-size: 30px;
+    margin-left: 50px;
+}
+ 
+  nav {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 90px;
+  }

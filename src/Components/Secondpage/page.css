@@ -1,0 +1,29 @@
+
+
+.pagecontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.heading2{
+    color: white;
+    font-size: 40px;
+}
+.paragraph2{
+    color:#959ead;
+    font-family: "Roboto";
+}
+.button{
+    color:#959ead;
+    padding: 15px 28px;
+    background-color:black;
+    border-color:white ;
+    border-radius: 15px;
+    font-size: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    width: 300px;
+    margin-right: 20px;
+  }
+ 
